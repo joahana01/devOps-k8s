@@ -4,6 +4,9 @@
 
 Manifiestos para desplegar `joahanagit/devops-test` en Kubernetes.
 
+# Clonar el repositorio
+git clone https://github.com/joahana01/devOps-test.git
+cd devOps-test
 
 ## Desplegar
 
